@@ -1,0 +1,7 @@
+jupyter
+numpy
+pandas
+requests
+scikit-learn
+tensorflow
+wheel
