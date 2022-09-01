@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project exclusions
+dataset.zip
+data/
+sentiment labelled sentences/
+__MACOSX
