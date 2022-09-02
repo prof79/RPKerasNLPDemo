@@ -133,3 +133,5 @@ dataset.zip
 data/
 sentiment labelled sentences/
 __MACOSX
+glove.zip
+glove.*.txt
